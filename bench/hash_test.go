@@ -46,7 +46,7 @@ func Benchmark_hash_murmur3_32(b *testing.B) {
 	fmt.Print(convert(hashtest.HashByMurMur3_32([]byte("1234-1234"))))
 	fmt.Print("/=")
 	fmt.Print("/=")
-	fmt.Print("/=")
+	fmt.Print("/=2")
 }
 
 func Benchmark_hash_murmur3_64(b *testing.B) {
