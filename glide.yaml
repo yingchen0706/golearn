@@ -1,0 +1,6 @@
+package: github.com/yingchen0706/golearn
+import:
+- package: github.com/gomodule/redigo
+  version: ^2.0.0
+  subpackages:
+  - redis

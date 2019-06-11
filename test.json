@@ -1,0 +1,43 @@
+{
+  "app": {
+    "id": "586fdc17ee31ccd07d0001b7",
+    "bundle": "com.test",
+    "ver": "1.0"
+  },
+  "device": {
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H141",
+    "lmt": 1,
+    "dnt": 1,
+    "model": "iPhone1,1",
+    "os": "ios",
+    "osv": "8.4",
+    "h": 640,
+    "w": 1136,
+    "carrier": "unknown",
+    "ifa": "E0CCB884-B9CD-4D3A-8F98-233623CD8D12",
+    "ext": {
+      "vungle": {
+        "ios": {
+          "volume_level": 0.8,
+          "battery_level": 0.8,
+          "battery_saver_enabled": 1,
+          "battery_state": "unknown",
+          "storage_bytes_available": 100000,
+          "idfa": "E0CCB884-B9CD-4D3A-8F98-233623CD8D12",
+          "idfv": "E0CCB884-B9CD-4D3A-8F98-233623CD8D12",
+          "connection_type": "wifi",
+          "language": "zh",
+          "locale": "zh",
+          "vduid": "E0CCB884-B9CD-4D3A-8F98-233623CD8D12",
+          "time_zone": "unknown"
+        }
+      }
+    }
+  },
+  "request": {
+    "placements": [
+      "vungle-level1",
+      "vungle-level1-tpc"
+    ]
+  }
+}
